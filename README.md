@@ -23,5 +23,3 @@ By following these best practices, you can better protect your systems. Stay pro
 Feel free to share these insights to help keep others safe online!
 
 Image Credits: ByteByteGo.
-
-(https://media.licdn.com/dms/image/v2/D4D22AQF1Acemxr6DEw/feedshare-shrink_800/feedshare-shrink_800/0/1727670742482?e=1734566400&v=beta&t=Mo-GZTu7FQCTXGRn-3rsiAgq7k4KInVKSq2beGsB1N8)
