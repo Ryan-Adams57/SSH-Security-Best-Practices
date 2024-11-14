@@ -1,4 +1,6 @@
-# SSH-Security-Best-Practices
+# SSH-Security-Best-Practices.
+
+![How SSH Works](https://github.com/user-attachments/assets/11708389-21d9-490e-9109-d2f0a637ae21)
 
 Secure Your SSH Configuration: Essential Tips.
 
